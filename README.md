@@ -2,4 +2,4 @@
 A webside for githubteacher
 
 
-alert("Hello World");
+Hello World
