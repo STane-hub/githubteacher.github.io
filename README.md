@@ -12,7 +12,7 @@ Hello World
   <p>Before the script...</p>
 
   <script>
-    alert( 'Hello, World!' );
+    alert( 'next steps - insert a pickcher in a web page' );
   </script>
 
   <p>...After the script.</p>
